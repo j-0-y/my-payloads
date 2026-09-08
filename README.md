@@ -15,3 +15,5 @@ cd
 ```
 git config --global --add safe.directory /usr/share/wordlists/my-payloads
 ```
+
+### This is all for HACKING! But one thing is still weird -> hunting without AI? Then you're a LEGEND.....
